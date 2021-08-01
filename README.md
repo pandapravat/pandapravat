@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am Pravat!! ✋✋
+
+I am a java sofoware engineer with a focus on application architecture. I am a strong supporter of the SOLID design principle. I believe that software applications should be readable, easily extensible and scalable. I am also a believer of strong testability of applications. Some technologies I really enjoy working with include java, spring, jquery etc. I also enjoy creating simple tools 🧰 that aid in application developement. Here, in my github page you can find some of such tools. :computer: I am currently working with a healthcare company builing applications that help facilitate patient movement in hospitals.
+
+- 📫 You can reach me on [linked in](https://www.linkedin.com/in/pravat-kumar-panda-74793722)
 
 <!--
 **pandapravat/pandapravat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
